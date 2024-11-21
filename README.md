@@ -21,6 +21,6 @@ A highly **skill-based, 1v1, peer-to-peer connection** first person shooter (FPS
 6. Copy and paste the Hamachi IPv4 address of the host into the [IP Text Field] (*) on the client
 7. Click [Client] (*) on the client
 
-(*) Note: for now, use the Network Manager HUD instead of the main menu elements
+(*) Note: for now, use the Network Manager HUD instead of the main menu elements.
 
 <em>Made with love in Unity (my first project).</em>
