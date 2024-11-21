@@ -10,6 +10,7 @@ Features:
 * Endless
 
 How to Play:
+
 0. Download ZIP and extract (do not move Arena.exe out of the folder)
 1. Download (and create accounts for) LogMeIn Hamachi on both desired computers
 2. Create a private network on one of the computers (host)
