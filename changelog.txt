@@ -2,8 +2,9 @@
 2024 11 24
 ----------
 [+] improved client interpolation
-[+] added Player 1 (host) and Player 2 (client) scores to UI
+[+] added Player 1 (host) and Player 2 (client) scores and healths to UI
 [+] fixed camera not rotating around player model (it was rotating around its own y-axis, allowing the player to potentially damage itself)
+[+] weapon is now a SSG 08 (2 shots to kill, 1 shot per second)
 
 ----------
 2024 11 23
