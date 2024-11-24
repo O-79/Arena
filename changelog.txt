@@ -1,2 +1,19 @@
+----------
+2024 11 24
+----------
+[+] improved client interpolation
+[+] added Player 1 (host) and Player 2 (client) scores to UI
+[+] fixed camera not rotating around player model (it was rotating around its own y-axis, allowing the player to potentially damage itself)
+
+----------
 2024 11 23
+----------
 [+] added changelog
+
+----------
+2024 11 22
+----------
+[+] added client interpolation for smooth movement
+[+] added weapon model
+[/] changed player scaling to avoid non-uniform scaling issues with weapon model as weapon is a child of player
+[/] both players now respawn at their respective spawn points with full health when one player dies
