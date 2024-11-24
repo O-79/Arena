@@ -1,7 +1,6 @@
 # Arena
-<em>Author: Adi</em><br/>
 
-A highly **skill-based, 1v1, peer-to-peer connection** first person shooter (FPS) game.
+A highly **skill-based, 1v1, peer-to-peer connection** first person shooter (FPS) game
 
 ### Features:
 
@@ -21,6 +20,6 @@ A highly **skill-based, 1v1, peer-to-peer connection** first person shooter (FPS
 6. Copy and paste the Hamachi IPv4 address of the host into the [IP Text Field] (*) on the client
 7. Click [Client] (*) on the client
 
-(*) For now, use the Network Manager HUD instead of the main menu elements.
+(*) For now, use the Network Manager HUD
 
-<em>Made with love in Unity (my first project).</em>
+<em>Made in Unity (my first project)</em>
