@@ -1,6 +1,6 @@
 # Arena
 
-A highly **skill-based, 1v1, peer-to-peer connection** first person shooter (FPS) game
+A highly **skill-based, 1v1, peer-to-peer connection** first person shooter (FPS) game built in Unity with Mirror Networking
 
 ### Features:
 
