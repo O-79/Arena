@@ -11,7 +11,7 @@ A highly **skill-based, 1v1, peer-to-peer connection** first person shooter (FPS
 
 ### How to Play:
 
-0. Download ZIP and extract (do not move Arena.exe out of the folder)
+0. Download ZIP and extract (do not move Arena.exe out of the folder) (!)
 1. Download (and create accounts for) LogMeIn Hamachi on both desired computers
 2. Create a private network on one of the computers (host)
 3. Join the private network on the other computer (client)
@@ -20,6 +20,7 @@ A highly **skill-based, 1v1, peer-to-peer connection** first person shooter (FPS
 6. Copy and paste the Hamachi IPv4 address of the host into the [IP Text Field] (*) on the client
 7. Click [Client] (*) on the client
 
+(!) Linux users: open terminal in DIR-LINUX and run using ./Arena_LINUX.x86_64
 (*) For now, use the Network Manager HUD
 
 <em>Made in Unity (my first project)</em>

@@ -1,20 +1,25 @@
 ----------
+2025 03 18
+----------
+[+] added build for Linux (see DIR-LINUX)
+
+----------
 2024 11 24
 ----------
 [/] improved client interpolation
-[+] ADDED Player 1 (host) and Player 2 (client) scores and healths to UI
+[+] added Player 1 (host) and Player 2 (client) scores and healths to UI
 [/] fixed camera not rotating around player model (it was rotating around its own y-axis, allowing the player to potentially damage itself)
 [/] weapon is now an AK-47 (4 shots to kill, 8 shots per second)
 
 ----------
 2024 11 23
 ----------
-[+] ADDED changelog
+[+] added changelog
 
 ----------
 2024 11 22
 ----------
-[+] ADDED client interpolation for smooth movement
-[+] ADDED weapon model
+[+] added client interpolation for smooth movement
+[+] added weapon model
 [/] changed player scaling to avoid non-uniform scaling issues with weapon model as weapon is a child of player
 [/] both players now respawn at their respective spawn points with full health when one player dies
